@@ -1,0 +1,51 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 5px;
+}
+
+h1{
+    color: rgb(93, 21, 193);
+    text-align: center;
+    font-size: 32px;
+}
+
+img{
+    display: block;
+    width: 250px;
+    height: 250px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul,ol{
+    list-style: inside;
+    text-align: left;
+}
+
+h2{
+    color: rgb(93, 21, 193);
+    font-size: medium;
+    text-align: center;
+}
+
+.list{
+    padding-left: 43%;
+}
+
+.data{
+    padding: 2%;
+}
+
+h3{
+    color: rgb(233, 138, 6);
+}
+
+.back{
+    color: rgb(7, 107, 7);
+    padding-left: 42%;
+}
